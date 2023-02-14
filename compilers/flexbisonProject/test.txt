@@ -1,0 +1,37 @@
+IDENTIFICATION DIVISION.
+PROGRAM-ID. Program.
+DATA DIVISION.
+WORKING-STORAGE SECTION.
+Tableau LINE 1, SIZE 0 INTEGER.
+CONST Yodawg FLOAT.
+CONST Dawgiei INTEGER.
+Jon FLOAT.
+Selman | Zakaria INTEGER.
+Goku | Krillin CHAR.
+Wolf STRING.
+C INTEGER.
+# Ceci un deuxième ! Commentaire !
+PROCEDURE DIVISION.
+C=(-20).
+A=5+20/4-4- (5+6)+(5-5*3) /10 + (12+3).
+B=(-1.5).
+IF ((Zak .G. Jon) AND (Pork .G. Kite) OR (1 .EQ. (-666))):
+	IF ( True .G. Big ) AND ( Pook .G. Loot ) :
+		Sel = Zak .
+	END.
+ELSE: 
+	Sel=Good. 
+END.
+Kart = (-1.99).
+MOVE 5 TO Mmmmmm
+	A = A + 1.
+END.
+MOVE Ok TO (5+6)+(5-5-3)
+	A = A + 1.
+	MOVE Ok TO (5+6)+(5-5-3)
+		A = A + 1.
+	END.
+END.
+ACCEPT ("$":@ Zak ).
+DISPLAY ("milkshake": @Oops).
+STOP RUN

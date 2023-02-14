@@ -1,0 +1,31 @@
+#Unigraph
+SIZE 1887 862
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+11
+"<E>" 9 225 1 2 
+"" 1512 406 0 
+"<N+subst>" 76 167 2 6 4 
+"\:" 611 209 1 9 
+"<NB>" 393 121 4 3 5 7 9 
+"<<(ml|mg|g|µg|ML|MG|G|dl)>>" 451 28 3 3 8 9 
+"<<(LP|lp)>>" 210 81 1 4 
+"<<,>>" 379 37 1 4 
+"<<\/>>" 348 263 1 4 
+"<NB>+jour+midi+soir+gélule+sachet+au+coucher+matin+voix+orale+douleur+si+demande+mars+jours+\/+½+²+toutes+les+heures+en+cas+gélules+fois+sachets+d'+constipation+hyperthermie+le+la+les+comprimé+’hyperthermie+'+heure+mL+besoin+pendant+un+mois+semaine+injection+cpr+h+(+A+la+demande+sachet+gel+à+sous+cutanée+seul+par+en+restant+et+votre+avec+controle+solution+flac+disposition+inj+SC+pansements+solution+perfusion+ampoule+flacon+agitation+Eau+gélifiée+poursuivre+encore+soins+coucher+g+l'+x+jr+cp+mg+m²+douleurs+j+J+h+cps+ml+mL+ng" 775 771 2 9 10 
+"jour+midi+soir+gélule+sachet+coucher+matin+voix+orale+douleur+demande+mars+jours+½+²+toutes+les+heures+cas+gélules+fois+sachets+constipation+hyperthermie+lcomprimé+’hyperthermie+'+heure+mL+besoin+mois+semaine+injection+cpr+h+)+demande+sachet+gel+sous+cutanée+seulrestant+solution+flac+disposition+inj+SC+controle+pansements+solution+perfusion+flacon+ampoule+agitation+Eau+gélifiée+poursuivre+encore+soins+coucher+g+l'+x+jr+cp+mg+m²+douleurs+j+J+h+cps+ml+mL+ng" 1104 672 1 1 
